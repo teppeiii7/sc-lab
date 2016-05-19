@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+
+# java.gitignore
+*.class
+
+# Eclipse.gitignore
+.project
+.classpath
+.metadata
+.gradle
+gradle/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+.settings/
+*.springBeans
+
+# Build directories
+build/
+target/
+
